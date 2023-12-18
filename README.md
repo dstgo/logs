@@ -1,0 +1,2 @@
+# logs
+simple log tool
